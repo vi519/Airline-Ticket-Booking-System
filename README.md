@@ -1,8 +1,12 @@
 # Airline-Ticket-Booking-System-Web Based Application
 
+```
 Booking System bulid to book tickets of airplane
+```
 ---
+```
 Tech Stack: PHP, MySql, Javascript, Bootstrap, CSS, HTML
+```
 ---
 
 Screenshots:
