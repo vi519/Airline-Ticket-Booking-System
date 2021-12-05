@@ -1,7 +1,7 @@
 # Airline-Ticket-Booking-System-Web Based Application
 
 ```
-Booking System bulid to book tickets of airplane   
+Booking System bulid to book tickets of airplane
 ```
 ---
 ```
